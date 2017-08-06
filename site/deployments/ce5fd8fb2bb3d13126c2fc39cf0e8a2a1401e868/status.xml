@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<deployment>
+  <id>ce5fd8fb2bb3d13126c2fc39cf0e8a2a1401e868</id>
+  <author>Sunitha Muthukrishna</author>
+  <deployer>GitHub</deployer>
+  <authorEmail>mksunitha@gmail.com</authorEmail>
+  <message>Merge pull request #24 from Song2017/dev
+
+Version 4.8 for azure</message>
+  <progress></progress>
+  <status>Success</status>
+  <statusText></statusText>
+  <lastSuccessEndTime>2017-07-31T22:35:31.5323704Z</lastSuccessEndTime>
+  <receivedTime>2017-07-31T22:34:59.5486241Z</receivedTime>
+  <startTime>2017-07-31T22:34:59.723287Z</startTime>
+  <endTime>2017-07-31T22:35:31.5323704Z</endTime>
+  <complete>True</complete>
+  <is_temp>False</is_temp>
+  <is_readonly>False</is_readonly>
+</deployment>
