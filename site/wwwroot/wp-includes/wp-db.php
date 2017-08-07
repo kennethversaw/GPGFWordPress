@@ -1522,7 +1522,7 @@ class wpdb {
 			$socket = null;
 			$host = $this->dbhost;
 			$port_or_socket = strstr( $host, ':' );
-			echo $host;
+		//	echo $host;
 
 			if ( ! empty( $port_or_socket ) ) {
 				$host = substr( $host, 0, strpos( $host, ':' ) );
