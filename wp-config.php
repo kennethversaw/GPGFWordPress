@@ -27,9 +27,9 @@
 //		$dbhost = 'us-cdbr-azure-central-a.cloudapp.net';
 
 $connectstr_dbhost = 'us-cdbr-azure-central-a.cloudapp.net';
-$connectstr_dbname = 'gpgf_staging';
-$connectstr_dbusername = 'b7b2fdf533d06c';
-$connectstr_dbpassword = '4958f87b';
+$connectstr_dbname = 'gpgf';
+$connectstr_dbusername = 'b3a3f72a9a683e';
+$connectstr_dbpassword = '84ce3f88';
 
 foreach ($_SERVER as $key => $value) {
     if (strpos($key, "MYSQLCONNSTR_") !== 0) {
