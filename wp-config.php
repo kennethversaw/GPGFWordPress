@@ -26,6 +26,7 @@
 //		$dbname= 'gpgf_staging';
 //		$dbhost = 'us-cdbr-azure-central-a.cloudapp.net';
 
+//Database=gpgf;Data Source=us-cdbr-azure-central-a.cloudapp.net;User Id=b3a3f72a9a683e;Password=84ce3f88
 $connectstr_dbhost = 'us-cdbr-azure-central-a.cloudapp.net';
 $connectstr_dbname = 'gpgf';
 $connectstr_dbusername = 'b3a3f72a9a683e';
